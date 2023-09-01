@@ -26,9 +26,9 @@ var BucketName = "mycloud-disk"
 // yourObjectName填写Object完整路径，完整路径不包含Bucket名称。
 var objectName = "cloud-disk/"
 
-var Oos_key = "LTAI5t9NbaLgyNYsCSACyWAZ"
+var Oos_key = ""
 
-var Oos_AccessKey_Secret = "F8V57WuoDn6DgGEWATlJFXEsHVjRhW"
+var Oos_AccessKey_Secret = ""
 
 var bucketName = "mycloud-disk"
 
