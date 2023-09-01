@@ -1,0 +1,15 @@
+Name: core-api
+Host: 0.0.0.0
+Port: 8888
+
+mysql: 
+  user: root
+  password: 421581wuzebin
+  address: 127.0.0.1:3306
+  dbname: cloud-disk
+redis:
+  address: 127.0.0.1:6379
+  password: ""
+  DB: 0
+  poolSize: 30
+  minIdleConn: 30
